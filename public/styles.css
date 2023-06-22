@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    border-style: double;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #38acd9, #FDB44E);    
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+th {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #38acd9, #FDB44E);    
+  }
+
+#createBookButton{
+  margin-top: 5%;
+  padding: 10px;
+}
